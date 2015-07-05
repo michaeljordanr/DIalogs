@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DIalogs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+
+    <string name="txt_dialog">Abrir Dialog</string>
+    <string name="txt_dialog_simple">Abrir Dialog Simples</string>
+    <string name="txt_dialog_radio">Abrir Dialog com Radio</string>
+    <string name="txt_dialog_multiple">Abrir Dialog Múltiplo</string>
+    <string name="chooseDialogSimple">"Você escolheu a banda "</string>
+    <string name="choosemultiple">"Você deselecionou a banda "</string>
+
+    <string-array name="bandas">
+        <item>Foo Fighters</item>
+        <item>Aerosmith</item>
+        <item>Metallica</item>
+        <item>Beatles</item>
+    </string-array>
+</resources>
